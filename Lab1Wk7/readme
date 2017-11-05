@@ -1,0 +1,12 @@
+#Run the python code as mentioned below
+
+#python script.py "InputFile"
+example "python code.py test.txt"
+
+#Output would be a dictionary of words with their frequency
+#You have to start from same and perform the desired tasks and exercises
+#These is another fil porter2.py you have to use same to perform stemming
+
+#Author: Piyush Arora
+#Have fun, keep coding
+#parora@computing.dcu.ie
